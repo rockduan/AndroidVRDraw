@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:7:19-67
+uses-feature#0x00020000
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:8:5-78
+	android:glEsVersion
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:8:19-51
+	android:required
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:8:52-75
+application
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:9:5-34:19
+	android:label
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.dlodlo.admin.dlodlovrdraw.MainActivity
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.dlodlo.admin.dlodlovrdraw.DoubleDecodeActivity
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:22:19-55
+activity#com.dlodlo.admin.dlodlovrdraw.MultiSurfaceActivity
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:25:19-55
+activity#com.dlodlo.admin.dlodlovrdraw.TextureFromCameraActivity
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:28:9-30:20
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:28:19-60
+activity#com.dlodlo.admin.dlodlovrdraw.PictureActivity
+ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:31:9-33:20
+	android:name
+		ADDED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml:31:19-50
+uses-sdk
+INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\duanliang\AndroidStudioProjects\AndroidVRDraw\AndroidVRDraw\app\src\main\AndroidManifest.xml

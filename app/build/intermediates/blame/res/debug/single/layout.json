@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_double_decode.xml",
+        "source": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\src\\main\\res\\layout\\activity_double_decode.xml"
+    },
+    {
+        "merged": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\work_dialog.xml",
+        "source": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\src\\main\\res\\layout\\work_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_multi_surface_test.xml",
+        "source": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\src\\main\\res\\layout\\activity_multi_surface_test.xml"
+    },
+    {
+        "merged": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_texture_from_camera.xml",
+        "source": "D:\\Users\\duanliang\\AndroidStudioProjects\\AndroidVRDraw\\AndroidVRDraw\\app\\src\\main\\res\\layout\\activity_texture_from_camera.xml"
+    }
+]
